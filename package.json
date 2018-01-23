@@ -28,6 +28,6 @@
   "homepage": "https://github.com/Robinlim/node-annotation-async#readme",
   "dependencies": {
     "fibers": "^1.0.13",
-    "node-annotation": "^1.0.0"
+    "node-annotation": "^2.0.0"
   }
 }
